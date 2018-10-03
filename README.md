@@ -12,14 +12,17 @@ List of all available problems: https://projecteuler.net/archives
 Problem 549 - Divisibility of factorials
 - Completed on Fri, 24 Nov 2017
 
+
 Problem 494 - Under The Rainbow
-Completed on Sun, 12 Nov 2017
+-Completed on Sun, 12 Nov 2017
 
 Problem 387 - Harshad Numbers
-Completed on Wed, 15 Nov 2017
+-Completed on Wed, 15 Nov 2017
+
 
 Problem 357- Prime generating integers
-Completed on Tue, 7 Nov 2017
+-Completed on Tue, 7 Nov 2017
+
 
 Problem 301- Nim
 Completed on Tue, 27 Feb 2018
