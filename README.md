@@ -7,7 +7,7 @@ List of all available problems: https://projecteuler.net/archives
 - place: 48th
 - Solved: 96
 - among 12040 (1.434%) total world participants, 03.10.2018.
-
+--------------------------------------------------------------
 
 Problem 549 - Divisibility of factorials
 Completed on Fri, 24 Nov 2017
