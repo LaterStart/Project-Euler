@@ -10,7 +10,7 @@ List of all available problems: https://projecteuler.net/archives
 --------------------------------------------------------------
 
 Problem 549 - Divisibility of factorials
-Completed on Fri, 24 Nov 2017
+- Completed on Fri, 24 Nov 2017
 
 Problem 494 - Under The Rainbow
 Completed on Sun, 12 Nov 2017
