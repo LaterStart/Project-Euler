@@ -4,8 +4,7 @@ List of solved Project Euler problems. It's an overview of my problem solving sk
 --------------------------------------------------------------
 List of all available problems: https://projecteuler.net/archives
 
-- Croatia top 50 solvers
-- place: 48th
+- Croatia rank: 48th
 - Solved: 96
 - among 12040 (1.434%) total world participants, 03.10.2018.
 --------------------------------------------------------------
